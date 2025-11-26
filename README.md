@@ -1,16 +1,86 @@
-<<<<<<< HEAD
-# React + Vite
+# DevFlix 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DevFlix** is a modern movie web application built with **React** that allows users to browse and explore movies from The Movie Database (**TMDb**) API. The app provides features like search, filtering, and sorting to enhance user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+* **Browse Movies:** View popular, top-rated, and upcoming movies.
+* **Search Movies:** Quickly find movies by name using the search bar.
+* **Filter & Sort:** Sort movies by different criteria (e.g., rating, date) in ascending or descending order.
+* **Responsive Design:** Works well on desktop and mobile devices.
+* **Dynamic Data:** Uses **TMDb API** to fetch up-to-date movie information.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# DevFlix
->>>>>>> d9201b365317b41da1821b2fc2b4cca5b5786c4e
+---
+
+## 🛠️ Technologies Used
+
+* **Frontend:** React, React DOM, JavaScript, CSS
+* **API:** The Movie Database (TMDb) API
+* **Routing:** React Router
+
+---
+
+## 📸 Screenshots
+
+**Popular Movies:**
+![Popular Movies](/path/to/popular_movies_screenshot.png)
+
+**Top Rated Movies:**
+![Top Rated Movies](/path/to/top_rated_movies_screenshot.png)
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/samikshajadhav08/DevFlix.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd DevFlix
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm start
+```
+
+5. Open your browser and visit `http://localhost:5173`
+
+---
+
+## 🔗 API
+
+This app uses the **TMDb API**. You will need an API key from [TMDb](https://www.themoviedb.org/) to fetch movie data.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+## 💻 Author
+
+**Samiksha Jadhav**
+
+* GitHub: [samikshajadhav08](https://github.com/samikshajadhav08)
+* Location: Nagpur, India
+
+---
+
+> DevFlix – Your go-to React movie browsing app! 🎥
