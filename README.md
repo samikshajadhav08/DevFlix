@@ -32,45 +32,9 @@
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/samikshajadhav08/DevFlix.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd DevFlix
-```
-
-3. Install dependencies:
-
-```bash
-npm install
-```
-
-4. Start the development server:
-
-```bash
-npm start
-```
-
-5. Open your browser and visit `http://localhost:5173`
-
----
-
 ## 🔗 API
 
 This app uses the **TMDb API**. You will need an API key from [TMDb](https://www.themoviedb.org/) to fetch movie data.
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
