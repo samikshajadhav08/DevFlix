@@ -28,7 +28,7 @@
 ![Popular Movies](/src/assets/popular.png)
 
 **Top Rated Movies:**
-![Top Rated Movies](/src/assets/popular.png)
+![Top Rated Movies](/src/assets/toprated.png)
 
 ---
 
