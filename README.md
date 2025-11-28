@@ -25,10 +25,10 @@
 ## 📸 Screenshots
 
 **Popular Movies:**
-![Popular Movies](/path/to/popular_movies_screenshot.png)
+![Popular Movies](/src/assets/popular.png)
 
 **Top Rated Movies:**
-![Top Rated Movies](/path/to/top_rated_movies_screenshot.png)
+![Top Rated Movies](/src/assets/popular.png)
 
 ---
 
